@@ -17,8 +17,6 @@
 </template>
 
 <script>
-import * as ColorHash from "color-hash";
-const colorHash = new ColorHash();
 export default {
   name: "TreeBrowser",
   props: {
@@ -42,7 +40,7 @@ export default {
         };
       } else {
         return {
-          color: colorHash.hex(node.name.split(".")[1])
+          color: "lightblue"
         };
       }
     }
