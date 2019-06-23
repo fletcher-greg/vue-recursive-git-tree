@@ -1,28 +1,41 @@
 <template>
   <div id="app">
-    <img alt="Vue logo" src="./assets/logo.png">
-    <HelloWorld msg="Welcome to Your Vue.js App"/>
+    <h1>Vue/.git Tree Browser</h1>
+    <TreeBrowser @onClick="nodeWasClicked" :node="root"/>
   </div>
 </template>
 
 <script>
-import HelloWorld from './components/HelloWorld.vue'
-
+import TreeBrowser from "./components/TreeBrowser.vue";
+import root from "./assets/data.json";
 export default {
-  name: 'app',
+  name: "app",
+  data() {
+    return {
+      root
+    };
+  },
+  methods: {
+    nodeWasClicked(node) {
+      alert(node.name);
+    }
+  },
   components: {
-    HelloWorld
+    TreeBrowser
   }
-}
+};
 </script>
 
 <style>
+body {
+  background: #333;
+  color: white;
+}
 #app {
-  font-family: 'Avenir', Helvetica, Arial, sans-serif;
+  font-family: "Avenir", Helvetica, Arial, sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
   text-align: center;
-  color: #2c3e50;
   margin-top: 60px;
 }
 </style>

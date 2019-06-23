@@ -1,0 +1,613 @@
+{
+  "path": ".git",
+  "name": ".git",
+  "children": [
+    {
+      "path": ".git\\COMMIT_EDITMSG",
+      "name": "COMMIT_EDITMSG",
+      "size": 5,
+      "extension": "",
+      "type": "file"
+    },
+    {
+      "path": ".git\\config",
+      "name": "config",
+      "size": 130,
+      "extension": "",
+      "type": "file"
+    },
+    {
+      "path": ".git\\description",
+      "name": "description",
+      "size": 73,
+      "extension": "",
+      "type": "file"
+    },
+    {
+      "path": ".git\\HEAD",
+      "name": "HEAD",
+      "size": 23,
+      "extension": "",
+      "type": "file"
+    },
+    {
+      "path": ".git\\hooks",
+      "name": "hooks",
+      "children": [
+        {
+          "path": ".git\\hooks\\applypatch-msg",
+          "name": "applypatch-msg",
+          "size": 870,
+          "extension": "",
+          "type": "file"
+        },
+        {
+          "path": ".git\\hooks\\applypatch-msg.sample",
+          "name": "applypatch-msg.sample",
+          "size": 478,
+          "extension": ".sample",
+          "type": "file"
+        },
+        {
+          "path": ".git\\hooks\\commit-msg",
+          "name": "commit-msg",
+          "size": 854,
+          "extension": "",
+          "type": "file"
+        },
+        {
+          "path": ".git\\hooks\\commit-msg.sample",
+          "name": "commit-msg.sample",
+          "size": 896,
+          "extension": ".sample",
+          "type": "file"
+        },
+        {
+          "path": ".git\\hooks\\fsmonitor-watchman.sample",
+          "name": "fsmonitor-watchman.sample",
+          "size": 3327,
+          "extension": ".sample",
+          "type": "file"
+        },
+        {
+          "path": ".git\\hooks\\post-applypatch",
+          "name": "post-applypatch",
+          "size": 874,
+          "extension": "",
+          "type": "file"
+        },
+        {
+          "path": ".git\\hooks\\post-checkout",
+          "name": "post-checkout",
+          "size": 866,
+          "extension": "",
+          "type": "file"
+        },
+        {
+          "path": ".git\\hooks\\post-commit",
+          "name": "post-commit",
+          "size": 858,
+          "extension": "",
+          "type": "file"
+        },
+        {
+          "path": ".git\\hooks\\post-merge",
+          "name": "post-merge",
+          "size": 854,
+          "extension": "",
+          "type": "file"
+        },
+        {
+          "path": ".git\\hooks\\post-receive",
+          "name": "post-receive",
+          "size": 862,
+          "extension": "",
+          "type": "file"
+        },
+        {
+          "path": ".git\\hooks\\post-rewrite",
+          "name": "post-rewrite",
+          "size": 862,
+          "extension": "",
+          "type": "file"
+        },
+        {
+          "path": ".git\\hooks\\post-update",
+          "name": "post-update",
+          "size": 858,
+          "extension": "",
+          "type": "file"
+        },
+        {
+          "path": ".git\\hooks\\post-update.sample",
+          "name": "post-update.sample",
+          "size": 189,
+          "extension": ".sample",
+          "type": "file"
+        },
+        {
+          "path": ".git\\hooks\\pre-applypatch",
+          "name": "pre-applypatch",
+          "size": 870,
+          "extension": "",
+          "type": "file"
+        },
+        {
+          "path": ".git\\hooks\\pre-applypatch.sample",
+          "name": "pre-applypatch.sample",
+          "size": 424,
+          "extension": ".sample",
+          "type": "file"
+        },
+        {
+          "path": ".git\\hooks\\pre-auto-gc",
+          "name": "pre-auto-gc",
+          "size": 858,
+          "extension": "",
+          "type": "file"
+        },
+        {
+          "path": ".git\\hooks\\pre-commit",
+          "name": "pre-commit",
+          "size": 854,
+          "extension": "",
+          "type": "file"
+        },
+        {
+          "path": ".git\\hooks\\pre-commit.sample",
+          "name": "pre-commit.sample",
+          "size": 1638,
+          "extension": ".sample",
+          "type": "file"
+        },
+        {
+          "path": ".git\\hooks\\pre-push",
+          "name": "pre-push",
+          "size": 846,
+          "extension": "",
+          "type": "file"
+        },
+        {
+          "path": ".git\\hooks\\pre-push.sample",
+          "name": "pre-push.sample",
+          "size": 1348,
+          "extension": ".sample",
+          "type": "file"
+        },
+        {
+          "path": ".git\\hooks\\pre-rebase",
+          "name": "pre-rebase",
+          "size": 854,
+          "extension": "",
+          "type": "file"
+        },
+        {
+          "path": ".git\\hooks\\pre-rebase.sample",
+          "name": "pre-rebase.sample",
+          "size": 4898,
+          "extension": ".sample",
+          "type": "file"
+        },
+        {
+          "path": ".git\\hooks\\pre-receive",
+          "name": "pre-receive",
+          "size": 858,
+          "extension": "",
+          "type": "file"
+        },
+        {
+          "path": ".git\\hooks\\pre-receive.sample",
+          "name": "pre-receive.sample",
+          "size": 544,
+          "extension": ".sample",
+          "type": "file"
+        },
+        {
+          "path": ".git\\hooks\\prepare-commit-msg",
+          "name": "prepare-commit-msg",
+          "size": 913,
+          "extension": "",
+          "type": "file"
+        },
+        {
+          "path": ".git\\hooks\\prepare-commit-msg.sample",
+          "name": "prepare-commit-msg.sample",
+          "size": 1492,
+          "extension": ".sample",
+          "type": "file"
+        },
+        {
+          "path": ".git\\hooks\\push-to-checkout",
+          "name": "push-to-checkout",
+          "size": 878,
+          "extension": "",
+          "type": "file"
+        },
+        {
+          "path": ".git\\hooks\\sendemail-validate",
+          "name": "sendemail-validate",
+          "size": 886,
+          "extension": "",
+          "type": "file"
+        },
+        {
+          "path": ".git\\hooks\\update",
+          "name": "update",
+          "size": 838,
+          "extension": "",
+          "type": "file"
+        },
+        {
+          "path": ".git\\hooks\\update.sample",
+          "name": "update.sample",
+          "size": 3610,
+          "extension": ".sample",
+          "type": "file"
+        }
+      ],
+      "size": 35257,
+      "type": "directory"
+    },
+    {
+      "path": ".git\\index",
+      "name": "index",
+      "size": 1095,
+      "extension": "",
+      "type": "file"
+    },
+    {
+      "path": ".git\\info",
+      "name": "info",
+      "children": [
+        {
+          "path": ".git\\info\\exclude",
+          "name": "exclude",
+          "size": 240,
+          "extension": "",
+          "type": "file"
+        }
+      ],
+      "size": 240,
+      "type": "directory"
+    },
+    {
+      "path": ".git\\logs",
+      "name": "logs",
+      "children": [
+        {
+          "path": ".git\\logs\\HEAD",
+          "name": "HEAD",
+          "size": 176,
+          "extension": "",
+          "type": "file"
+        },
+        {
+          "path": ".git\\logs\\refs",
+          "name": "refs",
+          "children": [
+            {
+              "path": ".git\\logs\\refs\\heads",
+              "name": "heads",
+              "children": [
+                {
+                  "path": ".git\\logs\\refs\\heads\\master",
+                  "name": "master",
+                  "size": 176,
+                  "extension": "",
+                  "type": "file"
+                }
+              ],
+              "size": 176,
+              "type": "directory"
+            }
+          ],
+          "size": 176,
+          "type": "directory"
+        }
+      ],
+      "size": 352,
+      "type": "directory"
+    },
+    {
+      "path": ".git\\objects",
+      "name": "objects",
+      "children": [
+        {
+          "path": ".git\\objects\\31",
+          "name": "31",
+          "children": [
+            {
+              "path": ".git\\objects\\31\\bd9ab3ad5b6e3e6c7ac52c7b420e0cc0938223",
+              "name": "bd9ab3ad5b6e3e6c7ac52c7b420e0cc0938223",
+              "size": 223,
+              "extension": "",
+              "type": "file"
+            }
+          ],
+          "size": 223,
+          "type": "directory"
+        },
+        {
+          "path": ".git\\objects\\36",
+          "name": "36",
+          "children": [
+            {
+              "path": ".git\\objects\\36\\6be59e9d5e145e6f6928b4f40ef03904a03c70",
+              "name": "6be59e9d5e145e6f6928b4f40ef03904a03c70",
+              "size": 88,
+              "extension": "",
+              "type": "file"
+            }
+          ],
+          "size": 88,
+          "type": "directory"
+        },
+        {
+          "path": ".git\\objects\\63",
+          "name": "63",
+          "children": [
+            {
+              "path": ".git\\objects\\63\\eb05f711c8cb5cda45128882fa69c351f105fb",
+              "name": "eb05f711c8cb5cda45128882fa69c351f105fb",
+              "size": 131,
+              "extension": "",
+              "type": "file"
+            }
+          ],
+          "size": 131,
+          "type": "directory"
+        },
+        {
+          "path": ".git\\objects\\64",
+          "name": "64",
+          "children": [
+            {
+              "path": ".git\\objects\\64\\1a9d2ec262341c2eda824e174c51c32c28f5cb",
+              "name": "1a9d2ec262341c2eda824e174c51c32c28f5cb",
+              "size": 412,
+              "extension": "",
+              "type": "file"
+            },
+            {
+              "path": ".git\\objects\\64\\afaea7e0f99e8262f35bd394af63c86e2c04b3",
+              "name": "afaea7e0f99e8262f35bd394af63c86e2c04b3",
+              "size": 59,
+              "extension": "",
+              "type": "file"
+            }
+          ],
+          "size": 471,
+          "type": "directory"
+        },
+        {
+          "path": ".git\\objects\\65",
+          "name": "65",
+          "children": [
+            {
+              "path": ".git\\objects\\65\\10c6a45035b6573151ff6196e4bdea78deb75d",
+              "name": "10c6a45035b6573151ff6196e4bdea78deb75d",
+              "size": 53,
+              "extension": "",
+              "type": "file"
+            }
+          ],
+          "size": 53,
+          "type": "directory"
+        },
+        {
+          "path": ".git\\objects\\87",
+          "name": "87",
+          "children": [
+            {
+              "path": ".git\\objects\\87\\9051a29739fdfb17ae82ed23b53fac251c2b7e",
+              "name": "9051a29739fdfb17ae82ed23b53fac251c2b7e",
+              "size": 713,
+              "extension": "",
+              "type": "file"
+            }
+          ],
+          "size": 713,
+          "type": "directory"
+        },
+        {
+          "path": ".git\\objects\\a0",
+          "name": "a0",
+          "children": [
+            {
+              "path": ".git\\objects\\a0\\dddc6fb8c6b3feeeffa6e29bedca338e483382",
+              "name": "dddc6fb8c6b3feeeffa6e29bedca338e483382",
+              "size": 157,
+              "extension": "",
+              "type": "file"
+            }
+          ],
+          "size": 157,
+          "type": "directory"
+        },
+        {
+          "path": ".git\\objects\\a6",
+          "name": "a6",
+          "children": [
+            {
+              "path": ".git\\objects\\a6\\c897ed6d85da2caee19d4b28e871cabfd324f3",
+              "name": "c897ed6d85da2caee19d4b28e871cabfd324f3",
+              "size": 253,
+              "extension": "",
+              "type": "file"
+            }
+          ],
+          "size": 253,
+          "type": "directory"
+        },
+        {
+          "path": ".git\\objects\\ba",
+          "name": "ba",
+          "children": [
+            {
+              "path": ".git\\objects\\ba\\179669a123909a9728283fd9c004c65adb90c5",
+              "name": "179669a123909a9728283fd9c004c65adb90c5",
+              "size": 66,
+              "extension": "",
+              "type": "file"
+            }
+          ],
+          "size": 66,
+          "type": "directory"
+        },
+        {
+          "path": ".git\\objects\\c1",
+          "name": "c1",
+          "children": [
+            {
+              "path": ".git\\objects\\c1\\ed8585ec558de3b6212b3ad38ff2c2c963d240",
+              "name": "ed8585ec558de3b6212b3ad38ff2c2c963d240",
+              "size": 134,
+              "extension": "",
+              "type": "file"
+            }
+          ],
+          "size": 134,
+          "type": "directory"
+        },
+        {
+          "path": ".git\\objects\\ca",
+          "name": "ca",
+          "children": [
+            {
+              "path": ".git\\objects\\ca\\b51455b7c5b59ea70ba4878a85ec1b6a3468e2",
+              "name": "b51455b7c5b59ea70ba4878a85ec1b6a3468e2",
+              "size": 150,
+              "extension": "",
+              "type": "file"
+            }
+          ],
+          "size": 150,
+          "type": "directory"
+        },
+        {
+          "path": ".git\\objects\\cc",
+          "name": "cc",
+          "children": [
+            {
+              "path": ".git\\objects\\cc\\0e2ec714927027106a63693dd00b3ecd152f01",
+              "name": "0e2ec714927027106a63693dd00b3ecd152f01",
+              "size": 124834,
+              "extension": "",
+              "type": "file"
+            }
+          ],
+          "size": 124834,
+          "type": "directory"
+        },
+        {
+          "path": ".git\\objects\\db",
+          "name": "db",
+          "children": [
+            {
+              "path": ".git\\objects\\db\\566c025686f54f4096a3820506d315948e4f38",
+              "name": "566c025686f54f4096a3820506d315948e4f38",
+              "size": 364,
+              "extension": "",
+              "type": "file"
+            }
+          ],
+          "size": 364,
+          "type": "directory"
+        },
+        {
+          "path": ".git\\objects\\df",
+          "name": "df",
+          "children": [
+            {
+              "path": ".git\\objects\\df\\36fcfb72584e00488330b560ebcf34a41c64c2",
+              "name": "36fcfb72584e00488330b560ebcf34a41c64c2",
+              "size": 979,
+              "extension": "",
+              "type": "file"
+            }
+          ],
+          "size": 979,
+          "type": "directory"
+        },
+        {
+          "path": ".git\\objects\\f3",
+          "name": "f3",
+          "children": [
+            {
+              "path": ".git\\objects\\f3\\d2503fc2a44b5053b0837ebea6e87a2d339a43",
+              "name": "d2503fc2a44b5053b0837ebea6e87a2d339a43",
+              "size": 6553,
+              "extension": "",
+              "type": "file"
+            }
+          ],
+          "size": 6553,
+          "type": "directory"
+        },
+        {
+          "path": ".git\\objects\\fc",
+          "name": "fc",
+          "children": [
+            {
+              "path": ".git\\objects\\fc\\c566279aef926ce288d41de2fd4d841a400705",
+              "name": "c566279aef926ce288d41de2fd4d841a400705",
+              "size": 332,
+              "extension": "",
+              "type": "file"
+            }
+          ],
+          "size": 332,
+          "type": "directory"
+        },
+        {
+          "path": ".git\\objects\\info",
+          "name": "info",
+          "children": [],
+          "size": 0,
+          "type": "directory"
+        },
+        {
+          "path": ".git\\objects\\pack",
+          "name": "pack",
+          "children": [],
+          "size": 0,
+          "type": "directory"
+        }
+      ],
+      "size": 135501,
+      "type": "directory"
+    },
+    {
+      "path": ".git\\refs",
+      "name": "refs",
+      "children": [
+        {
+          "path": ".git\\refs\\heads",
+          "name": "heads",
+          "children": [
+            {
+              "path": ".git\\refs\\heads\\master",
+              "name": "master",
+              "size": 41,
+              "extension": "",
+              "type": "file"
+            }
+          ],
+          "size": 41,
+          "type": "directory"
+        },
+        {
+          "path": ".git\\refs\\tags",
+          "name": "tags",
+          "children": [],
+          "size": 0,
+          "type": "directory"
+        }
+      ],
+      "size": 41,
+      "type": "directory"
+    }
+  ],
+  "size": 172717,
+  "type": "directory"
+}
